@@ -1,13 +1,7 @@
-//
-//  ExamUITestsLaunchTests.swift
-//  ExamUITests
-//
-//  Created by Eman on 23/04/1444 AH.
-//
 
 import XCTest
 
-final class ExamUITestsLaunchTests: XCTestCase {
+final class QuizDataUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

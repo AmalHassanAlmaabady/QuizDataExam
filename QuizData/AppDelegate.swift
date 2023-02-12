@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  Exam
-//
-//  Created by Eman on 23/04/1444 AH.
-//
+
 
 import UIKit
 
